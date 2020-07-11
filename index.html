@@ -1,46 +1,67 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <title>Desafio</title>
+    <link rel="shortcut icon" href="images/favicon-32x32.png" type="image/x-icon">
 </head>
+<title>Pedra, Papel e Tesoura! | João Pedro</title>
+
 <body>
     <header>
-        <h1>Pedra, Papel e Tesoura! </h1>
+        <h1>Pedra, Papel e Tesoura!</h1>
         
+
     </header>
     <main>
+        
         <div class="game">
             
-            <button name="papel">
-                <img src="images/icon-paper.svg" alt="">
-            </button>
-            
             <button name="pedra">
+                <h2>Pedra</h2>
                 <img src="images/icon-rock.svg" alt="">
             </button>
             
+            <button name="papel">
+                <h2>Papel</h2>
+                <img src="images/icon-paper.svg" alt="">
+            </button>
             <button name="tesoura">
+                <h2>Tesoura</h2>
                 <img src="images/icon-scissors.svg" alt="">
             </button>
         </div>
+        <h2>Pontuação</h2>
+        <div class="scores">
+            <div class="score">
+                <p>Jogador</p>
+                <p id="score1">0</p>
+            </div>
+            <div class="score">
+                <p>Bot</p>
+                <p id="score2">0</p>
+            </div>
+        </div>
         <div class="result">
-            <label for="img[name=jogador]">Jogador</label>
             <div class="img">
+                <p>Jogador</p>
                 <img src="" name="jogador">
             </div>
-            <div class="resultP">
-                <p name="result">Resultado:</p>
-            </div>
-            <label for="img[name=bot]">Bot</label>
+            <h1>X</h1>
             <div class="img">
+                <p>Bot</p>
                 <img src="" name="bot">
             </div>
         </div>
+        <div class="resultP">
+            <p name="result">Resultado:</p>
+        </div>
     </main>
-    <footer><p>FEITO por <a href="https://github.com/jpBrabo">João Pedro</a></p></footer>
+    <footer>
+        <p>FEITO por <a href="https://github.com/jpBrabo">João Pedro</a></p>
+    </footer>
     <script src="index.js"></script>
 </body>
 </html>

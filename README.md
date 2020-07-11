@@ -1,17 +1,30 @@
-#  Pedra, Papel e Tesoura!
+#  🌑Pedra, 📄Papel e ✂️Tesoura!
 
-## Feito por [João Pedro Resende](https://jpres.dev)
+## Feito por [👨‍💻João Pedro Resende🚀](https://jpres.dev)
+## Desafio
+Desafio do [Frontend-Mentor.io](https://www.frontendmentor.io/)
 
-<img src="images/resultado.gif">
+[clique aqui para ir para o desafio](https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH)
+## Apresentação📄
 
+Feito em live na [twitch.tv/jpbrab0](https://twitch.tv/jpbrab0). E utilizando conceitos basicos da programação como:
 
-## Apresentação
+* Lógica Basica
+* Váriaveis
+* Constantes
+* Funções
+* Estruturas condicionais
+* DOM
 
-Feito em live na [twitch.tv/jpbrab0](https://twitch.tv/jpbrab0)
+## Projeto
+Caso você queira ver como ficou o projeto [**clique aqui**](https://jpbrabo.github.io/pedra-papel-tesoura/)😉
 
-## Tecnologias
+## Tecnologias💻
 * Html
 * Css
 * Js
 
-### Feito para estudo e diversão!!! :D
+## Contribuição
+Caso você queira contribuir com o projeto deixa uma estrela e compartilhe para ver mais projetos como este!😁
+
+### **Feito para estudo e diversão!!!**
