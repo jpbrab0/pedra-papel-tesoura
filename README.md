@@ -17,7 +17,7 @@ Feito em live na [twitch.tv/jpbrab0](https://twitch.tv/jpbrab0). E utilizando co
 * DOM
 
 ## Projeto
-Caso você queira ver como ficou o projeto [**clique aqui**](https://jpbrabo.github.io/pedra-papel-tesoura/)😉
+Caso você queira ver como ficou o projeto [**clique aqui**](https://jpbrab0.github.io/pedra-papel-tesoura/)😉
 
 ## Tecnologias💻
 * Html
